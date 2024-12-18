@@ -1,0 +1,4 @@
+replace this file with csv file of same name, to run the Clipboard_Health.ipynb
+
+download : https://data.cms.gov/quality-of-care/payroll-based-journal-daily-nurse-staffing/data
+rename it to PBJ_Daily_Nurse_Staffing_Q1_2024.csv
